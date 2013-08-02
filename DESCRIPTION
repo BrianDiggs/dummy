@@ -1,0 +1,11 @@
+Package: dummy
+Title: 
+Description: 
+Version: 0.1
+Authors@R: person(given = c("Brian", "S."), family =
+    "Diggs", email="diggsb@ohsu.edu", role=c("aut", "cph",
+    "cre"))
+Depends: 
+Imports: utils
+License: GPL (>=2)
+LazyData: true
